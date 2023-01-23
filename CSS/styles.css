@@ -1,0 +1,30 @@
+body {background-color: rgb(233, 250, 253)}
+
+hr {
+    background-color: rgb(241, 241, 226);
+    /* border-style: dotted; */
+    /* or  */
+    border-style: none ;
+    border-top-style: dotted ;
+    border-color: grey ;
+    border-width: 5px;
+    /* height: 3px; */  /* default 0px height*/
+    width: 10%;
+    /* but this style still didnt change anything in contac t me page. Thus we need external CSS */
+}
+
+h1  {
+    /* background-color: #66BFBF; */
+    color: #1abcbc;
+}
+
+h3 {
+    color: #1abcbc;
+}
+
+.para :hover{
+    background-color: yellow;
+}
+.heading :hover{
+    background-color: yellow;
+}
